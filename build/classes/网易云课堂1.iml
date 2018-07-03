@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Java基本工具" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java核心类库_IO_part_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java核心类库_IO_part_02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java核心类库_IO_part_03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java核心类库_数据结构" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java核心类库_网络编程" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java核心类库_集合框架part_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java核心类库_集合框架part_02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java语言基础part4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java语言基础part5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JAVA语言新特性_Java5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JAVA语言新特性_Java8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java面向对象part2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java面向对象part3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java面向对象part4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java面向对象part5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java面对对象" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java高级进阶" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/方法参数的值传递机制" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/核心类库_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/核心类库_线程Part1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/核心类库_线程Part2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/组合关系实例" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/语言核心" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
